@@ -1,0 +1,25 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Talon",
+			"description": "Closeted gay man",
+			"price": "1.12",
+			"category": "husbands"
+		},
+		{
+			"id": 2,
+			"name": "Water",
+			"description": "Literally just tap water",
+			"price": "2000.99",
+			"category": "drinks"
+		},
+		{
+			"id": 3,
+			"name": "Potential Salvation",
+			"description": "We'll have a discussion about your sins and see if we can come to a resolution",
+			"price": "49.99",
+			"category": "selfhelp"
+		}
+	]
+}
