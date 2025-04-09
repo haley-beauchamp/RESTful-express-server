@@ -2,7 +2,8 @@
 	<h2><%= product.name %></h2>
 
 	<div class="product-info">
-		<p class="price">Price: $<%= product.price.toFixed(2) %></p>
+		<!-- got rid of .toFixed(2) -->
+		<p class="price">Price: $<%= product.price %></p>
 		<p class="category">Category: <%= product.category %></p>
 		<p class="description"><%= product.description %></p>
 	</div>

@@ -20,6 +20,13 @@
 			"description": "We'll have a discussion about your sins and see if we can come to a resolution",
 			"price": "49.99",
 			"category": "selfhelp"
+		},
+		{
+			"id": 4,
+			"name": "Haley Beauchamp",
+			"price": "4999",
+			"category": "selfhelp",
+			"description": "i will help you i promise"
 		}
 	]
 }
